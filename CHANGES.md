@@ -1,5 +1,9 @@
 # full.async changelog
 
+## 1.1.1
+
+* Removed :aot :all from project
+
 ## 1.0.0
 
 * ClojureScript support
